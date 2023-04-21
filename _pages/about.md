@@ -19,10 +19,10 @@ M.S in Shanghai University 2020-Now
 
 Publications
 ======
-April 2023： SAKE
-  Few-Shot Link Prediction using Variational Heterogeous Attention Networks
+April 2023： SAKE  
+      Few-Shot Link Prediction using Variational Heterogeous Attention Networks
 
-November 2022: Springer
-  Improving embedded knowledge graph multi-hop question answering by introducing relational chain reasoning
+November 2022: Springer  
+      Improving embedded knowledge graph multi-hop question answering by introducing relational chain reasoning
 
 
